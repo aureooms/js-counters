@@ -14,3 +14,6 @@ See [docs](https://aureooms.github.io/js-counters/index.html).
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-counters.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-counters)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-counters.svg?style=flat)](https://github.com/aureooms/js-counters/issues)
 [![Documentation](https://aureooms.github.io/js-counters/badge.svg)](https://aureooms.github.io/js-counters/source.html)
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aureooms/js-counters.svg)](https://greenkeeper.io/)
