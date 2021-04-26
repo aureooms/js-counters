@@ -1,8 +1,8 @@
-[@aureooms/js-counters](https://aureooms.github.io/js-counters)
+[@aureooms/js-counters](https://make-github-pseudonymous-again.github.io/js-counters)
 ==
 
 Counters data structure for JavaScript.
-See [docs](https://aureooms.github.io/js-counters/index.html).
+See [docs](https://make-github-pseudonymous-again.github.io/js-counters/index.html).
 
 [![License](https://img.shields.io/github/license/aureooms/js-counters.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-counters/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-counters.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-counters)
@@ -13,4 +13,4 @@ See [docs](https://aureooms.github.io/js-counters/index.html).
 [![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-counters.svg?style=flat)](https://codeclimate.com/github/aureooms/js-counters)
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-counters.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-counters)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-counters.svg?style=flat)](https://github.com/aureooms/js-counters/issues)
-[![Documentation](https://aureooms.github.io/js-counters/badge.svg)](https://aureooms.github.io/js-counters/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-counters/badge.svg)](https://make-github-pseudonymous-again.github.io/js-counters/source.html)
